@@ -25,6 +25,11 @@ You can contact the core developers of Skyline at our **[Discord](https://discor
 
 ---
 
+### Game compatibility
+To check the status of available games see **[skyline games list issues](https://github.com/skyline-emu/skyline-games-list/issues)**.
+
+---
+
 ### Special Thanks
 A few noteworthy teams/projects who've helped us along the way are:
 * **[Ryujinx](https://ryujinx.org/):** We've used Ryujinx for reference throughout the project, the accuracy of their HLE implementations of Switch subsystems make it an amazing reference. The team behind the project has been extremely helpful with any queries we've had and have constantly helped us with any issues we've come across. **It should be noted that Skyline is not based on Ryujinx**.
